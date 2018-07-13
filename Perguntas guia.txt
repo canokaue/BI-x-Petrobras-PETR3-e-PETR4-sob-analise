@@ -1,0 +1,61 @@
+---------------------------------Perguntas iniciais---------------------------------
+
+Por que há uma divisão nas ações comercializadas da Petrobras?
+
+O que é a PETR3/4? Quais suas diferenças e propósitos?
+
+Que pré conceitos podemos levantar nos baseando nas peculiaridades de cada ativo?
+
+Qual o perfil do investidor principal de cada Petro?
+
+--------------------Perguntas aplicadas para ambas PETR3 e PETR4--------------------
+
+Qual foi o máximo histórico?
+
+Quando foi o máximo histórico?
+
+Qual foi o mínimo histórico?
+
+Quando foi o mínimo histórico?
+
+Qual a média em X período?
+
+Qual o máximo em X período?
+
+Qual o mínimo em X período?
+
+Quais as cinco maiores cotações em X período?
+
+Quais as cinco menores cotações em X período?
+
+Qual foi a variação absoluta do ativo em X período?
+
+Qual foi a variação percentual do ativo em X período?
+
+Qual a diferença absoluta de preço entre ambas as moedas em X período?
+
+Qual a diferença relativa de preço entre ambas as moedas em X período?
+
+Como X período se compara com o mesmo período 1 mês atrás?
+
+Como X período se compara com o mesmo período 1 ano atrás?
+
+Em quais meses o preço teve maior amplitude?
+
+Em quais meses o preço teve menor amplitude?
+
+Como X ano se compara com Y ano? Qual a magnitude aproximada desta variação?
+
+-------------------------Perguntas práticas de investimento-------------------------
+
+Quanto valem minhas ações de PETR3?
+
+Quanto valem minhas ações de PETR4? 
+
+Quanto valem todas minhas ações da Petrobras?
+
+Qual o valor médio das minhas ações em X período?
+
+Quanto eu ganharia/perderia tendo vendido em X data?
+
+Quais foram as melhores datas próximas para venda?
